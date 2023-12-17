@@ -19,6 +19,10 @@
 <br/>
 <br/>
 
+## Overview
+
+This library takes a set of `mine tree` DSLs and generates a code file parser for each. It can then parse a code file using one of the DSLs into the appropriate tree structure. The tree structure might have unresolved interpolation structures and such, this is basically a nice form of the literal text tree that we can use in linting, and in type resolving / checking in the next steps.
+
 ## License
 
 Copyright 2023 <a href='https://term.surf'>TermSurf</a>
