@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/tree.note/blob/make/view/tree.gif?raw=true' height='256'>
+  <img src='https://github.com/termsurf/tree.leaf/blob/make/view/tree.gif?raw=true' height='256'>
 </p>
 
-<h3 align='center'>tree.note</h3>
+<h3 align='center'>tree.leaf</h3>
 <p align='center'>
-  The BaseNote AST Generator Library
+  The SeedLeaf AST Generator Library
 </p>
 
 <br/>
