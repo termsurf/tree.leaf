@@ -7,12 +7,12 @@
 <br/>
 
 <p align='center'>
-  <img src='https://github.com/termsurf/tree.leaf/blob/make/view/tree.gif?raw=true' height='256'>
+  <img src='https://github.com/termsurf/tree.star/blob/make/view/tree.gif?raw=true' height='256'>
 </p>
 
-<h3 align='center'>tree.leaf</h3>
+<h3 align='center'>tree.star</h3>
 <p align='center'>
-  The SeedLeaf AST Generator Library
+  The Star AST Generator Library
 </p>
 
 <br/>
